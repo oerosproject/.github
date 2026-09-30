@@ -1,17 +1,17 @@
-# OEROS AI-Assisted Contribution Policy
+# Oeros AI-Assisted Contribution Policy
 
 This policy covers the use of generative AI tools in contributions to any
 repository in the [oerosproject](https://github.com/oerosproject)
 organization. It is based on, and intended to be compatible with:
 
 - the [OSRF Policy on the Use of Generative Tools ("Generative AI") in Contributions](https://github.com/openrobotics/osrf-policies-and-procedures),
-  which governs ROS and the other projects OEROS packages; and
+  which governs ROS and the other projects Oeros packages; and
 - the Yocto Project and OpenEmbedded
   [Acceptance of AI Generated Code](https://docs.yoctoproject.org/dev/contributor-guide/submit-changes.html#acceptance-of-ai-generated-code)
   policy, which in turn follows the
   [Linux Foundation Generative AI Policy](https://www.linuxfoundation.org/legal/generative-ai).
 
-Because OEROS sits between those two communities, a commit that follows this
+Because Oeros sits between those two communities, a commit that follows this
 policy can be sent upstream to either one without its disclosure being
 rewritten.
 
@@ -177,6 +177,6 @@ instead of placing the whole code base under suspicion.
 ## Changes to this policy
 
 The law and community practice around generative AI are changing quickly.
-OEROS will update this policy as the OSRF, Yocto Project and Linux Foundation
+Oeros will update this policy as the OSRF, Yocto Project and Linux Foundation
 policies change, and will announce changes publicly. Contributors should
 follow the version in effect when they make their contribution.

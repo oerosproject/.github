@@ -1,6 +1,6 @@
-# Contributing to OEROS
+# Contributing to Oeros
 
-Thank you for your interest in OEROS, a reference distribution for
+Thank you for your interest in Oeros, a reference distribution for
 OpenEmbedded (OE) and the Yocto Project with the Robot Operating System (ROS).
 
 This guide applies to every repository in the
@@ -12,7 +12,7 @@ precedence.
 
 | Change | Where to send it |
 | --- | --- |
-| OEROS distro configuration, recipes and layer metadata | [oerosproject/meta-oeros](https://github.com/oerosproject/meta-oeros) |
+| Oeros distro configuration, recipes and layer metadata | [oerosproject/meta-oeros](https://github.com/oerosproject/meta-oeros) |
 | Container and runtime tests | [oerosproject/oeros-container-tests](https://github.com/oerosproject/oeros-container-tests) |
 | Specifications, RFCs, ADRs and project planning | [oerosproject/community](https://github.com/oerosproject/community) |
 | ROS recipes and the ROS layers themselves | Upstream [ros/meta-ros](https://github.com/ros/meta-ros), not here |
@@ -39,9 +39,9 @@ commit message links the upstream submission.
 
 ## Commit messages
 
-OEROS follows the
+Oeros follows the
 [Yocto Project commit message conventions](https://docs.yoctoproject.org/dev/contributor-guide/submit-changes.html#implement-and-commit-changes)
-so that changes can move between OEROS and upstream layers without being
+so that changes can move between Oeros and upstream layers without being
 rewritten.
 
 ```
@@ -63,7 +63,7 @@ Signed-off-by: Your Name <your.name@example.com>
 
 ## Developer Certificate of Origin (DCO)
 
-OEROS does not use a Contributor License Agreement. Instead, every commit must
+Oeros does not use a Contributor License Agreement. Instead, every commit must
 carry a `Signed-off-by:` trailer certifying the
 [Developer Certificate of Origin 1.1](https://developercertificate.org/),
 the same requirement used by the Linux kernel, OpenEmbedded and the Yocto
